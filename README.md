@@ -5,7 +5,7 @@ This capstone project examines chronic absenteeism rates across districts, grade
 
 Presentation link 
 
-https://www.canva.com/design/DAFmm2vBb4A/n4iQSlHnfvK7wdKDQ5vkPA/edit?analyticsCorrelationId=41fdff5b-935e-49b7-8bf3-04adeb43eb5e
+https://www.canva.com/design/DAFmm2vBb4A/_1sgcNS0vUO8TeUI7tQoaA/view?utm_content=DAFmm2vBb4A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 
 
